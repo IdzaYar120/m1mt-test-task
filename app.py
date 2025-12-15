@@ -6,7 +6,6 @@ import sys
 
 
 CONFIG = {
-    # TODO: Swap these with real credentials before running!
     "ARCGIS_USERNAME": "idzayar",
     "ARCGIS_PASSWORD": "6Eu4ng2LMS4hwX.",
     
