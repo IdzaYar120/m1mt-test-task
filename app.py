@@ -6,8 +6,8 @@ import sys
 
 
 CONFIG = {
-    "ARCGIS_USERNAME": "idzayar",
-    "ARCGIS_PASSWORD": "6Eu4ng2LMS4hwX.",
+    "ARCGIS_USERNAME": "log",
+    "ARCGIS_PASSWORD": "pass",
     
     "FEATURE_LAYER_ID": "169f1042c8d845089afe9495e8a8cafb",
     
